@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MalGamy"
+title                    : "deebonit"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Gameel Ali"
-description              : "Malware Analysis - Reverse Engineering"
+name                     : "Mohamed M. EL-Deeb"
+description              : "Malware Analysis"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,30 +93,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gameel Ali"
+  name             : "Mohamed M. EL-Deeb"
   avatar           : /img/cover.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Malware analysis & Reverse engineering"
+  bio              : "Malware analysis"
 
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "gameelaa29@gmail.com"
+      url: "eldeebmohamed426@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/GameelA63457659"
+      url: "https://twitter.com/deebonit"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/gameel-ali-8041161bb/"
+      url: "https://www.linkedin.com/in/deebonit"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/MalGamy"
+      url: "https://github.com/deebonit"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
